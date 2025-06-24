@@ -17,10 +17,11 @@
 ---
 
 ### 💼 Portfolio & Projects
-- 🌐 [My Portfolio Website](https://axsh.space)  
+- 🌐 [My Portfolio Website](https://axsh.space)
+- Visual Values -  https://visual-value.vercel.app/
 - 💊 DocBridge — Smart Appointment Booking System  
 - 💅 BeautyAtHome — Salon services at your doorstep
-- - 📱 iPhone 17 Clone UI  
+- 📱 iPhone 17 Clone UI  
 
 
 ---
