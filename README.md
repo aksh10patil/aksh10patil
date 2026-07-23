@@ -51,8 +51,8 @@ Focused on distribution and growth while building the systems underneath — shi
 ### GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksh10patil&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh10patil&hide_border=true&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aksh10patil&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=aksh10patil&hide_border=true&background=0d1117&stroke=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="48%"/>
 </p>
 
 ---
