@@ -1,56 +1,50 @@
-<h1 align="center">Hi 👋, I'm Rajdeep Patil</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | React ⚛️ | Next.js ⚡ | Tailwind 💨</h3>
+# Rajdeep Patil
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Full+Stack+Developer;MERN+Stack+Specialist;React+%2B+Next.js+Enthusiast;Passionate+about+building+UIs;Open+Source+Contributor" />
+**Full Stack Engineer · Founding Engineer & CTO @ [Klosr](https://app.klosr.co/)**
+
+I build SaaS and AI products end to end — from schema to UI — and care about growth as much as the build. Currently shipping production software used by real users.
+
+[Portfolio](https://www.rajdeep.ch/) · [LinkedIn](https://linkedin.com/in/rajdeeppatil2021) · [Email](mailto:rajdeeppatilcs@gmail.com)
+
+---
+
+### What I'm Building
+
+**[Klosr](https://app.klosr.co/)** — AI-powered B2B outbound sales platform, built from scratch.
+Multi-tenant architecture, AI email generation, unified inbox, LinkedIn automation, graph-based sequence builder, and background job processing. 100+ waitlist signups in the first two months, with a production Chrome extension.
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle` `BullMQ` `Redis` `OpenAI` `Anthropic`
+
+**[IntervueAI](https://intervue-ai-delta.vercel.app/)** — AI mock interview platform with real-time practice and feedback.
+Role-specific question generation, instant scoring, company-specific mocks, and progress tracking.
+`Next.js` `TypeScript`
+
+---
+
+### Stack
+
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP
+**Backend** — Node.js, Express, PostgreSQL, MongoDB, Redis, BullMQ
+**Data & ORM** — Drizzle, Prisma, Neon, Firebase
+**Cloud & DevOps** — Docker, AWS, Vercel, Render, Upstash
+**AI** — OpenAI, Anthropic, Gemini
+
+---
+
+### Currently
+
+Deepening system design, distributed systems, event-driven architectures, and AI agents — the foundations for scaling SaaS.
+
+---
+
+### GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aksh10patil&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh10patil&hide_border=true&theme=transparent" width="48%"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I’m currently building awesome projects using **Next.js, Node.js, MongoDB & TypeScript**
-- 🛠️ Passionate about building **beautiful, performant, and accessible** web apps  
-- 📚 Constantly learning new tools like **Framer Motion, GSAP, Zustand, Prisma**
-- 🌱 Actively contributing and collaborating at [DevLearn](https://devlearn.in) — a community of 1000+ learners across India  
+### Elsewhere
 
-
----
-
-### 💼 Portfolio & Projects
-- 🌐 [My Portfolio Website](https://www.rajdeep.ch/)
-- Visual Values -  https://visual-value.vercel.app/
-- 💊 DocBridge — Smart Appointment Booking System  
-- 💅 BeautyAtHome — Salon services at your doorstep
-- 📱 iPhone 17 Clone UI  
-
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,typescript,javascript,tailwind,redux,figma,vercel,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksh10patil&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksh10patil&theme=radical" width="47%"/>
-</p>
-
----
-
-### 📫 Let’s Connect
-<p align="center">
-  <a href="mailto:rajdeeppatilcs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aksh10patil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/awxshhhh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajdeeppatil2021"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-*Built with ❤️ by Rajdeep Patil*
+[Portfolio](https://www.rajdeep.ch/) · [LinkedIn](https://linkedin.com/in/rajdeeppatil2021) · [GitHub](https://github.com/aksh10patil) · [X](https://x.com/awxshhhh) · [YouTube](https://youtube.com/@axshcodes)
