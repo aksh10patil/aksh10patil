@@ -23,16 +23,20 @@ Role-specific question generation, instant scoring, company-specific mocks, and 
 ### Stack
 
 **Frontend** — React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP
+<br>
 **Backend** — Node.js, Express, PostgreSQL, MongoDB, Redis, BullMQ
+<br>
 **Data & ORM** — Drizzle, Prisma, Neon, Firebase
+<br>
 **Cloud & DevOps** — Docker, AWS, Vercel, Render, Upstash
+<br>
 **AI** — OpenAI, Anthropic, Gemini
 
 ---
 
 ### Currently
 
-Deepening system design, distributed systems, event-driven architectures, and AI agents — the foundations for scaling SaaS.
+Focused on distribution and growth while building the systems underneath — shipping features, sharpening system design, and scaling Klosr toward its next stage.
 
 ---
 
