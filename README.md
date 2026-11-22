@@ -1,6 +1,6 @@
 # Rajdeep Patil
 
-**Full Stack Engineer · Founding Engineer @ [Klosr]
+Full Stack Engineer · Founding Engineer @ [Klosr]
 
 I build SaaS and AI products end to end — from schema to UI — and care about growth as much as the build. Currently shipping production software used by real users.
 
