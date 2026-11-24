@@ -10,7 +10,7 @@ I build SaaS and AI products end to end — from schema to UI — and care about
 
 ### Where I Work
 
-**[Klosr](https://app.klosr.co/)** — Founding Engineer & CTO. Building an AI-powered B2B outbound sales platform from the ground up.
+**[Klosr](https://app.klosr.co/)** — Founding Engineer. Building an AI-powered B2B outbound sales platform from the ground up.
 <br>
 **[NorthStarGroup](https://northstargroup.ch/)** — Full Stack Engineer. Shipping client web apps, AI automation, and voice-agent products for a Switzerland-based studio.
 
